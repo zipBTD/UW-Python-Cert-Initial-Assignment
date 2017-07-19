@@ -22,6 +22,7 @@ For any value divisible by 5, the program should print "Figure".
 For any value divisible by 4 and 5, the program should print "GoFigure"."
 
 # The Second Problem - Pseudocode
+```
 Initiate the variable at 1
 WHILE the value is less than or equal to 100:
     IF the value is divisible by 4 and 5:
@@ -31,6 +32,7 @@ WHILE the value is less than or equal to 100:
     ELIF the value is divisible by 5:
         print the value and 'Figure'
     add 1 to the value for the next iteration
+```
 
 # The Second Problem - ANSWER
 ```
