@@ -32,7 +32,7 @@ WHILE the value is less than or equal to 100:
     add 1 to the value for the next iteration
 
 # The Second Problem - ANSWER
-'''
+```
 n = 1
 while n <= 100:
     if n % 4 == 0 and n % 5 == 0:
@@ -42,7 +42,7 @@ while n <= 100:
     elif n % 5 == 0:
         print(n, 'Figure')
     n = n + 1
-'''
+```
 
 # The Second Problem - MY QUESTIONS TO SEAN
 Do you think my pseudocode is good? I never had to try that before.
