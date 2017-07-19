@@ -6,13 +6,14 @@ This will help me get in the class.
 and prints the numbers to the console or screen."
 
 # The First Problem - ANSWER
+```
 for i in range(100, -2, -2):
     print(i)
+```
 
 # The First Problem - MY QUESTIONS TO SEAN
 The output seems to look good. Why does Python print from from 100 to 0 in the code above?
 I am shocked it doesn't output -2 at the end.
-
 
 # The Second Problem 
 "Write a program, in any language (incl pseudocode) that iterates the numbers from 1 to 100.
