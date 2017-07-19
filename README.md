@@ -21,15 +21,15 @@ For any value divisible by 5, the program should print "Figure".
 For any value divisible by 4 and 5, the program should print "GoFigure"."
 
 # The Second Problem - Pseudocode
-# Initiate the variable at 1
-# WHILE the value is less than or equal to 100:
-#     IF the value is divisible by 4 and 5:
-#         print the value and 'GoFigure'
-#     ELIF the value is divisible by 4:
-#         print the value and 'Go'
-#     ELIF the value is divisible by 5:
-#         print the value and 'Figure'
-#     add 1 to the value for the next iteration
+Initiate the variable at 1
+WHILE the value is less than or equal to 100:
+    IF the value is divisible by 4 and 5:
+        print the value and 'GoFigure'
+    ELIF the value is divisible by 4:
+        print the value and 'Go'
+    ELIF the value is divisible by 5:
+        print the value and 'Figure'
+    add 1 to the value for the next iteration
 
 # The Second Problem - ANSWER
 n = 1
@@ -47,7 +47,7 @@ Do you think my pseudocode is good? I never had to try that before.
 Do you think the professor wants the numbers printed with the associated strings?
 I did that but am not sure if its wanted because it wasn't requested. Maybe I'm overthinking it, I know these are easy problems. 
 
-THANK YOU!!!
+# THANK YOU!!!
 
 
 
